@@ -56,9 +56,13 @@
 
 - [**Data Wrangling, Analysis and AB Testing with SQL**](https://www.coursera.org/account/accomplishments/certificate/7PCXMVRFS2QE) by **University of California, Davis**
 
+- [**SQL for Data Science**](https://www.coursera.org/account/accomplishments/verify/B3R3KRCAF2N9) by **University of California, Davis**
+
 - [**Create a no-code responsive website with Webflow**](https://www.coursera.org/account/accomplishments/certificate/NSCSU588QJ6B) by **Cousera**
 
 - [**Microsoft Certified: Power BI Data Analyst Associate**](https://www.credly.com/badges/7e849a48-17bc-4e69-b944-0c3c2dacf2af) by **Microsoft**
+
+- [**Microsoft Certified: Azure Data Fundamentals**](https://www.credly.com/badges/d3d873dd-f094-417f-a1cf-ec8cdbade84d) by **Microsoft**
 
 ## 
 
