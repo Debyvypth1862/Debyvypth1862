@@ -68,6 +68,8 @@
 
 ### Some of My Featured Projects ❓ 👨‍💻 🛰️
 
+- [**Data Engineering Testing Framework Projects**](https://github.com/Debyvypth1862/qa-data-engineer)
+
 - [**Data Engineering Projects**](https://github.com/Debyvypth1862/Data-Engineering-Projects)
 
 - [**Lead Conversion Prediction**](https://github.com/Debyvypth1862/Logistic-Regression-Lead-Conversion-Project)
@@ -81,3 +83,4 @@
 ## 
 
 ## View more repositories 👇
+
